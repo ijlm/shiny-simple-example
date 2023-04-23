@@ -1,3 +1,3 @@
 Este ducumento es un ejemplo simple de shiny 
-sin ningun cambio adiconal
+par ir de lo mas basico a lo mas complejo
 
